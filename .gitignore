@@ -9,3 +9,8 @@ data/
 
 # Secrets
 .env
+
+# Éditeurs
+.idea/
+*.iml
+.vscode/
