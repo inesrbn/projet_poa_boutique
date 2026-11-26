@@ -1,4 +1,11 @@
-node_modules/
+# Java / Maven
+target/
+*.class
+
+# Bases H2 (fichiers créés quand le service tourne)
 data/
-*.db
+*.mv.db
+*.trace.db
+
+# Secrets
 .env
